@@ -136,10 +136,6 @@ button {
     margin: 0 auto 1rem;
 }
 
-.page2.hidden {
-    display: none;
-}
-
 p.midletext {
     display: inline-block;
     background-color: hsl(213, 19%, 18%);
